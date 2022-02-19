@@ -16,7 +16,7 @@ msg.payload=[{
 		Sicaklik:sicaklik,
 		Nem:nem,
 		Gaz:gaz,
-	Alarm:alarm
+		Alarm:alarm
 	}
 },
 	{
